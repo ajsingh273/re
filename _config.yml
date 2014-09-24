@@ -1,0 +1,13 @@
+name: Renewable Energy Top Markets for U.S. Exports 2014-2015
+pygments: true
+baseurl:
+markdown: rdiscount
+exclude:
+  - .bundle
+  - .git
+  - .gitignore
+  - bin
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
