@@ -74,3 +74,4 @@ The Office of Energy and Environmental Industries (OEEI), a part of the Internat
 The International Trade Administration’s mission is to create prosperity by strengthening the competitiveness of U.S. industry, promoting trade and investment, and ensuring fair trade and compliance with trade laws and agreements.
 
 ![Flowers](images/ita.jpg)
+
